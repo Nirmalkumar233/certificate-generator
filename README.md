@@ -35,7 +35,7 @@ $ npm run start
   - Firebase
   - Material UI
 
-# [Code of Conduct](CODE_OF_CONDUCT.md)
+
 
 
 
